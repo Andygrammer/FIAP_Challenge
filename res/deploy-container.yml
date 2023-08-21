@@ -45,4 +45,4 @@ jobs:
         app-name: 'wa-back-postechchallenge1'
         slot-name: 'production'
         publish-profile: ${{ secrets.AzureAppService_PublishProfile_censurado }}
-        images: 'postechchallenge1acr.azurecr.io/${{ secrets.AzureAppService_ContainerUsername_censurado
+        images: 'postechchallenge2acr.azurecr.io/${{ secrets.AzureAppService_ContainerUsername_censurado }}/aspnetimage:${{ github.sha }}'
