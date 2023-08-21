@@ -41,5 +41,4 @@ Primeiramente apresentarei o passo a passo necessário para resolver o desafio, 
 
 # 4. Referência
 
-1. [Azure Command-Line Interface (CLI) documentation
-](https://learn.microsoft.com/en-us/cli/azure/)
+1. [Azure Command-Line Interface (CLI) documentation](https://learn.microsoft.com/en-us/cli/azure/)

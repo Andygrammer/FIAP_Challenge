@@ -6,6 +6,7 @@
 | ------------- | ------------- | ----------------------                     | ----------------- |
 | 12/05/2023    | 1.0           | Criação do documento                       | André Batemarchi  |
 | 24/05/2023    | 1.1           | Ajustes de termos do Azure para o inglês e outras correções textuais   | André Batemarchi | 
+| 21/08/2023    | 1.2           | Typos   | André Batemarchi | 
 
 # 1. Considerações Preliminares e Motivação
 Sabemos que é muito comum hoje soluções em nuvem ([Microsoft, 2023](https://dotnet.microsoft.com/en-us/download/e-book/aspnet/pdf)). Dentre as vantagens dessa tecnologia estão: custo, escalabilidade, segurança e várias outras.
@@ -102,7 +103,7 @@ O Azure tem um arcabouço de serviços disponíveis para monitoramento via *logg
 **Ferramentas e resources:** devemos entender como configurar corretamente o monitoramento de acordo com as necessidades de desenvolvimento, via **Diagnostic Settings** e outras opções possíveis do **Azure Monitor Service**. Podemos também configurar informações de Analytics úteis  para contabilizar métricas relacionadas aos requisitos não funcionais do negócio. Algumas configurações podem requerer codificação complementar em nossa aplicação.
 
 # 6. Arquitetura Proposta para o Desafio
-*Amarrando* o que foi apresentado até aqui e inspirado em ([Microsoft, 2023](https://dotnet.microsoft.com/en-us/download/e-book/aspnet/pdf)), propõe-se a seguinte arquitetura para o projeto **eShopOnWeb** na nuvem Azure:
+Consolidando o que foi apresentado até aqui e inspirado em ([Microsoft, 2023](https://dotnet.microsoft.com/en-us/download/e-book/aspnet/pdf)), propõe-se a seguinte arquitetura para o projeto **eShopOnWeb** na nuvem Azure:
 
 ![](../res/arq2.png "Arquitetura proposta para o eShopOnWeb na nuvem")
 **Fonte:** inspirado em ([Microsoft, 2023](https://dotnet.microsoft.com/en-us/download/e-book/aspnet/pdf))
