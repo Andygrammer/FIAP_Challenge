@@ -15,3 +15,5 @@ Compartilharei neste repositório as atividades desenvolvidas e estudos realizad
 5. [Fase 2 | Disciplina 3](./Desafios/F02D03A06%20-%20Challenge%205.md) - Domain Driven Design - Elaboração de um Event Storming para modelagem de um sistema de gerenciamento de tratores alugados
 
 6. [Fase 3 | Disciplina 1](./Desafios/F03D01A05%20-%20Challenge%206.md) - Projeto de uma aplicação que usa o Application Insights para coleta de métricas e monitoramento de desempenho em tempo real
+
+7. [Fase 3 | Disciplina 2](./Desafios/F03D02A03%20-%20Challenge%207.md) - Projeto de uma aplicação que usa Banco de Dados e o Azure Key Vault
