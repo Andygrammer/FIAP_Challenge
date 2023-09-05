@@ -12,4 +12,6 @@ Compartilharei neste repositório as atividades desenvolvidas e estudos realizad
 
 4. [Fase 2 | Disciplina 2](./Desafios/F02D02A11%20-%20Challenge%204.md) - Projeto de uma aplicação que utiliza o GitHub Actions para fazer CI/CD para publicação automática da aplicação
 
-5. [Fase 2 | Disciplina 3](Em construção...)
+5. [Fase 2 | Disciplina 3](./Desafios/F02D03A06%20-%20Challenge%205.md) - Domain Driven Design - Elaboração de um Event Storming para modelagem de um sistema de gerenciamento de tratores alugados
+
+6. [Fase 3 | Disciplina 1](./Desafios/F03D01A05%20-%20Challenge%206.md) - Projeto de uma aplicação que usa o Application Insights para coleta de métricas e monitoramento de desempenho em tempo real
