@@ -17,3 +17,7 @@ Compartilharei neste repositório as atividades desenvolvidas e estudos realizad
 6. [Fase 3 | Disciplina 1](./Desafios/F03D01A05%20-%20Challenge%206.md) - Projeto de uma aplicação que usa o Application Insights para coleta de métricas e monitoramento de desempenho em tempo real.
 
 7. [Fase 3 | Disciplina 2](./Desafios/F03D02A03%20-%20Challenge%207.md) - Projeto de uma aplicação que usa Banco de Dados e o Azure Key Vault.
+
+8. [Fase 4 | Disciplina 1](./Desafios/F04D01A08%20-%20Challenge%208.md) - Solução contendo uma aplicação e o desenho de sua arquitetura, conforme o padrão Clean Architecture.
+
+9. [Fase 4 | Disciplina 2](./Desafios/F04D02A05%20-%20Challenge%209.md) - Solução que implementa mensageria com MassTransit e RabbitMQ.
