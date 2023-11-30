@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {
+    "net6.0": {
       "Microsoft.ApplicationInsights/2.21.0": {
         "type": "package",
         "dependencies": {
@@ -3156,34 +3156,41 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net7.0": [
+    "net6.0": [
       "Microsoft.ApplicationInsights.AspNetCore >= 2.21.0"
     ]
   },
   "packageFolders": {
-    "/Users/andremarinho/.nuget/packages/": {}
+    "C:\\Users\\017443631\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/andremarinho/Projects/FIAP_Challenge/projs/F03D01A05 - App Insights/challenge6/challenge6.csproj",
+      "projectUniqueName": "C:\\Users\\017443631\\source\\repos\\FIAP_Challenge\\projs\\F03D01A05 - App Insights\\challenge6\\challenge6.csproj",
       "projectName": "challenge6",
-      "projectPath": "/Users/andremarinho/Projects/FIAP_Challenge/projs/F03D01A05 - App Insights/challenge6/challenge6.csproj",
-      "packagesPath": "/Users/andremarinho/.nuget/packages/",
-      "outputPath": "/Users/andremarinho/Projects/FIAP_Challenge/projs/F03D01A05 - App Insights/challenge6/obj/",
+      "projectPath": "C:\\Users\\017443631\\source\\repos\\FIAP_Challenge\\projs\\F03D01A05 - App Insights\\challenge6\\challenge6.csproj",
+      "packagesPath": "C:\\Users\\017443631\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\017443631\\source\\repos\\FIAP_Challenge\\projs\\F03D01A05 - App Insights\\challenge6\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/Users/andremarinho/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\017443631\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net7.0"
+        "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "projectReferences": {}
         }
       },
@@ -3194,8 +3201,8 @@
       }
     },
     "frameworks": {
-      "net7.0": {
-        "targetAlias": "net7.0",
+      "net6.0": {
+        "targetAlias": "net6.0",
         "dependencies": {
           "Microsoft.ApplicationInsights.AspNetCore": {
             "target": "Package",
@@ -3221,7 +3228,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
